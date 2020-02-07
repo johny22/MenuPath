@@ -1,2 +1,2 @@
 # MenuPath
-Mini Projeto Delphi para facilitar a documentação acesso à rotinas do Menu
+Mini Projeto Delphi para facilitar a documentação de acesso à rotinas do Menu
